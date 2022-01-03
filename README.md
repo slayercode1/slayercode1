@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio]()**
 
-- 📫 How to reach me ****
+- 📫 How to reach me **compte.professionel@outlook.com**
 
 - ⚡ Fun fact **I play games and learn to develop nex things.**
 
