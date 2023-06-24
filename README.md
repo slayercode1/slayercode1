@@ -14,7 +14,7 @@ const getInfoUser = () => {
       "city": "Pau",
       "year": "2021-2022",
       "status": "En cours"
-    }
+    },
     "disponibilité": "fin Mars 2024"
   }
 };
