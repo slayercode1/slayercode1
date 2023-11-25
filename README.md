@@ -54,5 +54,4 @@ const getInfoUser = () => {
 
 ## 🗂️ Projet en cours
 
-➥ [Fast-Cli](https://www.npmjs.com/package/@ghost_/fast_cli)\
 ➥ [Convertisseur data -> Interface TS](https://slayercode1.github.io/Convert-Json-To-Typescript/)
