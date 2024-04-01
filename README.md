@@ -6,16 +6,20 @@
 ```ts
 const getInfoUser = () => {
   return {
-    "title": "Développeur web et mobile",
+    "certification": {
+      "1": "Développeur web et mobile",
+      "2": "Concepteur Développeur d'Applications"
+    },
     "description": "Créer des applications et des sites web.",
     "formation": {
-      "post": "Concepteur Développeur d'Applications",
+      "post": "CTO | Chef de projet",
       "school": "La fabrique numérique",
       "city": "Pau",
-      "year": "2021-2022",
+      "year": "2024-2026",
       "status": "En cours"
     },
-    "disponibilité": "fin Mars 2024"
+    //"disponibilité": "fin Mars 2024"
+    "search": "Alternance"
   }
 };
 ``` 
@@ -54,4 +58,4 @@ const getInfoUser = () => {
 
 ## 🗂️ Projet en cours
 
-➥ [Convertisseur data -> Interface TS](https://slayercode1.github.io/Convert-Json-To-Typescript/)
+➥ TaskFlow - management task
