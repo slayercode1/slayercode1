@@ -12,7 +12,7 @@ const getInfoUser = () => {
     },
     "description": "Créer des applications et des sites web.",
     "formation": {
-      "post": "CTO | Chef de projet",
+      "post": "Expert informatique et systèmes d'information",
       "school": "La fabrique numérique",
       "city": "Pau",
       "year": "2024-2026",
