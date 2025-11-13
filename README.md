@@ -58,6 +58,4 @@ const getInfoUser = () => {
 ## 🗂️ Projets en cours
 
 **🔧 Projets actifs :**
-- **SafeProof** - Solution de sécurisation et validation
-- **Deploy-Workflow** - Automatisation des déploiements
 - **Utilitaire Ubuntu** - Outils et scripts pour environnement Linux
