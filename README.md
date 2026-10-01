@@ -59,4 +59,5 @@ const getInfoUser = () => {
 
 **🔧 Projets actifs :**
 - **Utilitaire Ubuntu** - Outils et scripts pour environnement Linux
-- **Containr** - Outil de gestion des images docker
+- **kodl** - Gestion de projet (kodl.fr)
+- **swae** - IDE 100% pour vibecoding
